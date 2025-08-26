@@ -1,12 +1,15 @@
-# 🪙 Crypto Arbitrage Tracker
+## 🎯 Why I Built This
 
-This project is like a **price detective** 👀 for cryptocurrencies.  
-It checks the price of **Ethereum (ETH)** on **two exchanges** (Binance and Kraken),  
-then compares them to see if there is a **difference (arbitrage)**.
+# Learn by doing....
+I wanted to learn real-world problem solving with JavaScript while working on something related to crypto bot development.
 
-If the difference is big enough, that means:  
-👉 You could buy cheaper on one exchange and sell higher on the other.  
+This project helped me understand:
 
+How to fetch data from real exchange APIs
+
+How to automate tasks with setInterval
+
+How to serve data with an Express API
 ---
 
 ## ✨ What This Project Does
@@ -29,15 +32,4 @@ npm install
 
 node server/server.js or node index.js
 
-🎯 Why I Built This
 
-## Learn by doing....
-I wanted to learn real-world problem solving with JavaScript while working on something related to crypto bot development.
-
-This project helped me understand:
-
-How to fetch data from real exchange APIs
-
-How to automate tasks with setInterval
-
-How to serve data with an Express API
