@@ -23,12 +23,13 @@ How to serve data with an Express API
 
 ## 🚀 How to Run
 1. Clone this repo:
-2.Install dependencies:
+
+2. Install dependencies:
 
 npm install
 
 
-3.Start the server:
+3. Start the server:
 
 node server/server.js or node index.js
 
